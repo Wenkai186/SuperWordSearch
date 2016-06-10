@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\SuperWordSearch\SuperWordSearch\obj\x86\Debug\SuperWordSearch.exe
+C:\Users\lenovo\Desktop\SuperWordSearch\SuperWordSearch\bin\Debug\SuperWordSearch.exe
+C:\Users\lenovo\Desktop\SuperWordSearch\SuperWordSearch\bin\Debug\SuperWordSearch.pdb
+C:\Users\lenovo\Desktop\SuperWordSearch\SuperWordSearch\obj\x86\Debug\SuperWordSearch.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SuperWordSearch\SuperWordSearch\obj\x86\Debug\SuperWordSearch.pdb
+C:\Users\lenovo\Desktop\SuperWordSearch_Wenkai\SuperWordSearch\obj\x86\Debug\SuperWordSearch.exe
+C:\Users\lenovo\Desktop\SuperWordSearch_Wenkai\SuperWordSearch\obj\x86\Debug\SuperWordSearch.pdb
+C:\Users\lenovo\Desktop\SuperWordSearch_Wenkai\SuperWordSearch\bin\Debug\SuperWordSearch.exe
+C:\Users\lenovo\Desktop\SuperWordSearch_Wenkai\SuperWordSearch\bin\Debug\SuperWordSearch.pdb
+C:\Users\lenovo\Desktop\SuperWordSearch_Wenkai\SuperWordSearch\obj\x86\Debug\SuperWordSearch.csprojResolveAssemblyReference.cache

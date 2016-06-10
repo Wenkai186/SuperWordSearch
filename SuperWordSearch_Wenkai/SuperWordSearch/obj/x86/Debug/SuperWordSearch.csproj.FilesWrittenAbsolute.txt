@@ -1,0 +1,5 @@
+/home/wenkai/Desktop/SuperWordSearch/SuperWordSearch/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/wenkai/Desktop/SuperWordSearch/SuperWordSearch/bin/Debug/SuperWordSearch.exe.mdb
+/home/wenkai/Desktop/SuperWordSearch/SuperWordSearch/bin/Debug/SuperWordSearch.exe
+/home/wenkai/Desktop/SuperWordSearch/SuperWordSearch/obj/x86/Debug/SuperWordSearch.exe
+/home/wenkai/Desktop/SuperWordSearch/SuperWordSearch/obj/x86/Debug/SuperWordSearch.exe.mdb
